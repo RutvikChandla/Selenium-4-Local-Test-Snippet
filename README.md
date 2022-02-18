@@ -1,5 +1,6 @@
 # Selenium-4-Local-Test-Snippet
 ---
+Client can host thier target to test website on thier own way or host sample.html from the repo for introductory purpose.
 
 ### Step 1:
 Add "sample.html" in your current working directory.
